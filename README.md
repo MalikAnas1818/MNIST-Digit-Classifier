@@ -9,6 +9,8 @@ It demonstrates handwritten digit recognition using classic ML algorithms traine
 - Models used:
   - `SGDClassifier` with hinge loss (SVM-like)
   - `RandomForestClassifier`
+
+
 - Deployed with a **Gradio web interface** for real-time predictions
 
 ## 🎯 Features
@@ -23,4 +25,8 @@ It demonstrates handwritten digit recognition using classic ML algorithms traine
 👉 [Live Gradio App](#) *(Insert link if hosted on HuggingFace or other)*  
 👉 [View Notebook](#) *(Insert Colab or Jupyter link)*
 
+
+
+
+https://github.com/user-attachments/assets/a67292d4-7bdd-462f-9862-af56d40adc9a
 
